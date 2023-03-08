@@ -1,1 +1,1 @@
-My first readme
+Trying out software engineering, thi should be fun.
